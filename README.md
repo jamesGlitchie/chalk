@@ -92,7 +92,7 @@ You can chain chalks together to form a custom chalk.
 
 - The chalk module ensures color support for the windows `conhost.exe` emulator.
 
-<image src="media/conhost-demo.png">
+<image src="media/conhost-demo.PNG">
 
 ## License
 
