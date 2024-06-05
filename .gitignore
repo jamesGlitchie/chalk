@@ -1,0 +1,8 @@
+main.py
+test.py
+node_modules/
+**.json
+**egg**
+**__pycache__**
+build
+dist
